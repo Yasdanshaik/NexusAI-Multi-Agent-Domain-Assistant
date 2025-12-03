@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of NexusAI - Multi-Agent Domain Assistant",
+  "description": "An intelligent multi-agent AI assistant unifying Healthcare, Education, and Environment domains with real-time data fusion and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
